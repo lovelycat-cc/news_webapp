@@ -1,0 +1,167 @@
+2019-09-02 10:10:52,908 ERROR 551696 [-/::1/-/5061ms GET /news] nodejs.ConnectionTimeoutError: Connect timeout for 5000ms, GET https://hacker-news.firebaseio.com/v0/topstories.json -2 (connected: false, keepalive socket: false, agent status: {"createSocketCount":1,"createSocketErrorCount":0,"closeSocketCount":1,"errorSocketCount":0,"timeoutSocketCount":0,"requestCount":0,"freeSockets":{},"sockets":{},"requests":{}}, socketHandledRequests: 1, socketHandledResponses: 0)
+headers: {}
+headers: {}
+    at Timeout._onTimeout (E:\forfun\egg-demo\node_modules\urllib\lib\urllib.js:923:15)
+    at ontimeout (timers.js:436:11)
+    at tryOnTimeout (timers.js:300:5)
+    at listOnTimeout (timers.js:263:5)
+    at Timer.processTimers (timers.js:223:10)
+name: "ConnectionTimeoutError"
+requestId: 1
+data: undefined
+path: "/v0/topstories.json?orderby=%22%24key%22&startAt=%220%22&endAt=%229%22"
+status: -2
+headers: {}
+res: {"status":-2,"statusCode":-2,"statusMessage":null,"headers":{},"size":0,"aborted":false,"rt":5037,"keepAliveSocket":false,"requestUrls":["https://hacker-news.firebaseio.com/v0/topstories.json"],"timing":null,"remoteAddress":"35.201.97.85","remotePort":"","socketHandledRequests":1,"socketHandledResponses":0}
+pid: 551696
+hostname: CC
+
+2019-09-04 11:36:35,525 ERROR 677920 [-/127.0.0.1/-/9ms GET /news] nodejs.TypeError: Cannot read property 'find' of undefined
+    at NewsService.list (E:\forfun\news-server\app\service\news.js:7:45)
+    at NewsController.list (E:\forfun\news-server\app\controller\news.js:8:49)
+    at Object.callFn (E:\forfun\news-server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\forfun\news-server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\forfun\news-server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\forfun\news-server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\forfun\news-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\forfun\news-server\node_modules\koa-compose\index.js:45:18)
+    at E:\forfun\news-server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\forfun\news-server\node_modules\koa-compose\index.js:44:32)
+    at E:\forfun\news-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\forfun\news-server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\forfun\news-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\forfun\news-server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\forfun\news-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\forfun\news-server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+
+pid: 677920
+hostname: CC
+
+2019-09-04 11:38:55,366 ERROR 681768 [-/127.0.0.1/-/18ms GET /news] nodejs.TypeError: Cannot read property 'find' of undefined
+    at NewsService.list (E:\forfun\news-server\app\service\news.js:7:45)
+    at NewsController.list (E:\forfun\news-server\app\controller\news.js:8:49)
+    at Object.callFn (E:\forfun\news-server\node_modules\egg-core\lib\utils\index.js:44:21)
+    at Object.classControllerMiddleware (E:\forfun\news-server\node_modules\egg-core\lib\loader\mixin\controller.js:87:20)
+    at Object.callFn (E:\forfun\news-server\node_modules\@eggjs\router\lib\utils.js:12:21)
+    at wrappedController (E:\forfun\news-server\node_modules\@eggjs\router\lib\egg_router.js:322:18)
+    at dispatch (E:\forfun\news-server\node_modules\koa-compose\index.js:44:32)
+    at next (E:\forfun\news-server\node_modules\koa-compose\index.js:45:18)
+    at E:\forfun\news-server\node_modules\@eggjs\router\lib\router.js:190:18
+    at dispatch (E:\forfun\news-server\node_modules\koa-compose\index.js:44:32)
+    at E:\forfun\news-server\node_modules\koa-compose\index.js:36:12
+    at dispatch (E:\forfun\news-server\node_modules\@eggjs\router\lib\router.js:195:33)
+    at dispatch (E:\forfun\news-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at E:\forfun\news-server\node_modules\egg-development\app\middleware\egg_loader_trace.js:9:56
+    at dispatch (E:\forfun\news-server\node_modules\koa\node_modules\koa-compose\index.js:42:32)
+    at i18n (E:\forfun\news-server\node_modules\egg-i18n\app\middleware\i18n.js:13:12)
+
+pid: 681768
+hostname: CC
+
+2019-09-04 12:16:54,829 ERROR 686028 [-/127.0.0.1/-/85ms GET /news] nodejs.SyntaxError: Unexpected token k in JSON at position 2
+    at JSON.parse (<anonymous>)
+    at NewsController.list (E:\forfun\news-server\app\controller\news.js:9:30)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 686028
+hostname: CC
+
+2019-09-04 12:17:57,002 ERROR 686028 [-/127.0.0.1/-/21ms GET /news] nodejs.SyntaxError: Unexpected token k in JSON at position 2
+    at JSON.parse (<anonymous>)
+    at NewsController.list (E:\forfun\news-server\app\controller\news.js:9:30)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 686028
+hostname: CC
+
+2019-09-04 13:20:58,588 ERROR 689576 [-/127.0.0.1/-/395ms GET /news] nodejs.TypeError: query.count is not a function
+    at NewsService.list (E:\forfun\news-server\app\service\news.js:8:29)
+    at process._tickCallback (internal/process/next_tick.js:68:7)
+
+pid: 689576
+hostname: CC
+
+2019-09-04 13:40:36,110 ERROR 691616 [-/127.0.0.1/-/88ms GET /news] nodejs.CastError: Cast to ObjectId failed for value "香港恶毒教师诅咒警察子女 校方:他有"优良品质"" at path "_id" for model "News"
+    at new CastError (E:\forfun\news-server\node_modules\mongoose\lib\error\cast.js:29:11)
+    at ObjectId.cast (E:\forfun\news-server\node_modules\mongoose\lib\schema\objectid.js:244:11)
+    at ObjectId.SchemaType.applySetters (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:948:12)
+    at ObjectId.SchemaType._castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1362:15)
+    at ObjectId.SchemaType.castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1352:15)
+    at E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1301:18
+    at Array.map (<anonymous>)
+    at ObjectId.handle$in (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1297:14)
+    at ObjectId.SchemaType.castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1349:20)
+    at ObjectId.SchemaType.castForQueryWrapper (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1326:17)
+    at cast (E:\forfun\news-server\node_modules\mongoose\lib\cast.js:288:39)
+    at model.Query.Query.cast (E:\forfun\news-server\node_modules\mongoose\lib\query.js:4616:12)
+    at model.Query.Query._castConditions (E:\forfun\news-server\node_modules\mongoose\lib\query.js:1798:10)
+    at model.Query.<anonymous> (E:\forfun\news-server\node_modules\mongoose\lib\query.js:1825:8)
+    at model.Query._wrappedThunk [as _find] (E:\forfun\news-server\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (E:\forfun\news-server\node_modules\kareem\index.js:369:33)
+message: "Cast to ObjectId failed for value \"香港恶毒教师诅咒警察子女 校方:他有\"优良品质\"\" at path \"_id\" for model \"News\""
+name: "CastError"
+stringValue: "\"香港恶毒教师诅咒警察子女 校方:他有\"优良品质\"\""
+kind: "ObjectId"
+value: "香港恶毒教师诅咒警察子女 校方:他有\"优良品质\""
+path: "_id"
+reason: undefined
+model: undefined
+pid: 691616
+hostname: CC
+
+2019-09-04 13:42:10,482 ERROR 693836 [-/127.0.0.1/-/111ms GET /news] nodejs.CastError: Cast to ObjectId failed for value "香港恶毒教师诅咒警察子女 校方:他有"优良品质"" at path "_id" for model "News"
+    at new CastError (E:\forfun\news-server\node_modules\mongoose\lib\error\cast.js:29:11)
+    at ObjectId.cast (E:\forfun\news-server\node_modules\mongoose\lib\schema\objectid.js:244:11)
+    at ObjectId.SchemaType.applySetters (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:948:12)
+    at ObjectId.SchemaType._castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1362:15)
+    at ObjectId.SchemaType.castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1352:15)
+    at E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1301:18
+    at Array.map (<anonymous>)
+    at ObjectId.handle$in (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1297:14)
+    at ObjectId.SchemaType.castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1349:20)
+    at ObjectId.SchemaType.castForQueryWrapper (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1326:17)
+    at cast (E:\forfun\news-server\node_modules\mongoose\lib\cast.js:288:39)
+    at model.Query.Query.cast (E:\forfun\news-server\node_modules\mongoose\lib\query.js:4616:12)
+    at model.Query.Query._castConditions (E:\forfun\news-server\node_modules\mongoose\lib\query.js:1798:10)
+    at model.Query.<anonymous> (E:\forfun\news-server\node_modules\mongoose\lib\query.js:1825:8)
+    at model.Query._wrappedThunk [as _find] (E:\forfun\news-server\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (E:\forfun\news-server\node_modules\kareem\index.js:369:33)
+message: "Cast to ObjectId failed for value \"香港恶毒教师诅咒警察子女 校方:他有\"优良品质\"\" at path \"_id\" for model \"News\""
+name: "CastError"
+stringValue: "\"香港恶毒教师诅咒警察子女 校方:他有\"优良品质\"\""
+kind: "ObjectId"
+value: "香港恶毒教师诅咒警察子女 校方:他有\"优良品质\""
+path: "_id"
+reason: undefined
+model: undefined
+pid: 693836
+hostname: CC
+
+2019-09-04 13:44:31,351 ERROR 692512 [-/127.0.0.1/-/90ms GET /news] nodejs.CastError: Cast to ObjectId failed for value "香港恶毒教师诅咒警察子女 校方:他有"优良品质"" at path "_id" for model "News"
+    at new CastError (E:\forfun\news-server\node_modules\mongoose\lib\error\cast.js:29:11)
+    at ObjectId.cast (E:\forfun\news-server\node_modules\mongoose\lib\schema\objectid.js:244:11)
+    at ObjectId.SchemaType.applySetters (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:948:12)
+    at ObjectId.SchemaType._castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1362:15)
+    at ObjectId.SchemaType.castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1352:15)
+    at E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1301:18
+    at Array.map (<anonymous>)
+    at ObjectId.handle$in (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1297:14)
+    at ObjectId.SchemaType.castForQuery (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1349:20)
+    at ObjectId.SchemaType.castForQueryWrapper (E:\forfun\news-server\node_modules\mongoose\lib\schematype.js:1326:17)
+    at cast (E:\forfun\news-server\node_modules\mongoose\lib\cast.js:288:39)
+    at model.Query.Query.cast (E:\forfun\news-server\node_modules\mongoose\lib\query.js:4616:12)
+    at model.Query.Query._castConditions (E:\forfun\news-server\node_modules\mongoose\lib\query.js:1798:10)
+    at model.Query.<anonymous> (E:\forfun\news-server\node_modules\mongoose\lib\query.js:1825:8)
+    at model.Query._wrappedThunk [as _find] (E:\forfun\news-server\node_modules\mongoose\lib\helpers\query\wrapThunk.js:16:8)
+    at process.nextTick (E:\forfun\news-server\node_modules\kareem\index.js:369:33)
+message: "Cast to ObjectId failed for value \"香港恶毒教师诅咒警察子女 校方:他有\"优良品质\"\" at path \"_id\" for model \"News\""
+name: "CastError"
+stringValue: "\"香港恶毒教师诅咒警察子女 校方:他有\"优良品质\"\""
+kind: "ObjectId"
+value: "香港恶毒教师诅咒警察子女 校方:他有\"优良品质\""
+path: "_id"
+reason: undefined
+model: undefined
+pid: 692512
+hostname: CC
+

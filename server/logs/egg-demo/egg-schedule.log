@@ -1,0 +1,165 @@
+2019-08-29 10:27:35,658 INFO 317424 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-29 10:27:35,658 INFO 317424 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-29 10:27:35,658 INFO 317424 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-29 10:27:35,910 INFO 317348 [Timer] E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64944096ms at 2019-08-30 04:30:00.006
+2019-08-29 10:27:35,912 INFO 317348 [Timer] E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48744089ms at 2019-08-30 00:00:00.001
+2019-08-29 10:27:35,913 INFO 317348 [Timer] E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48745088ms at 2019-08-30 00:00:01.001
+2019-08-29 10:35:49,366 INFO 318412 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-29 10:35:49,366 INFO 318412 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-29 10:35:49,366 INFO 318412 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-08-29 10:36:20,423 INFO 316636 [Timer] E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 64419586ms at 2019-08-30 04:30:00.009
+2019-08-29 10:36:20,425 INFO 316636 [Timer] E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 48219576ms at 2019-08-30 00:00:00.001
+2019-08-29 10:36:20,426 INFO 316636 [Timer] E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 48220575ms at 2019-08-30 00:00:01.001
+2019-08-29 10:36:20,174 INFO 317180 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-08-29 10:36:20,174 INFO 317180 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-08-29 10:36:20,174 INFO 317180 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 09:16:06,208 INFO 548348 [Timer] E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 69233802ms at 2019-09-03 04:30:00.010
+2019-09-02 09:16:06,209 INFO 548348 [Timer] E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 53033792ms at 2019-09-03 00:00:00.001
+2019-09-02 09:16:06,210 INFO 548348 [Timer] E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 53034791ms at 2019-09-03 00:00:01.001
+2019-09-02 09:16:05,772 INFO 549636 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 09:16:05,772 INFO 549636 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 09:16:05,772 INFO 549636 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:00:48,100 INFO 493304 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 10:00:48,100 INFO 493304 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 10:00:48,100 INFO 493304 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:04:57,350 INFO 552472 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 10:04:57,350 INFO 552472 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 10:04:57,351 INFO 552472 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:05:27,713 INFO 553096 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 10:05:27,713 INFO 553096 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 10:05:27,713 INFO 553096 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:06:08,848 INFO 551944 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 10:06:08,848 INFO 551944 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 10:06:08,848 INFO 551944 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:08:24,764 INFO 553916 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 10:08:24,764 INFO 553916 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 10:08:24,764 INFO 553916 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:08:53,038 INFO 553740 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 10:08:53,038 INFO 553740 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 10:08:53,038 INFO 553740 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:10:02,804 INFO 548344 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 10:10:02,804 INFO 548344 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 10:10:02,804 INFO 548344 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:10:39,302 INFO 551696 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-02 10:10:39,302 INFO 551696 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-02 10:10:39,302 INFO 551696 [egg-schedule]: register schedule E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-02 10:10:39,668 INFO 550980 [Timer] E:\forfun\egg-demo\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 65960338ms at 2019-09-03 04:30:00.006
+2019-09-02 10:10:39,669 INFO 550980 [Timer] E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 49760332ms at 2019-09-03 00:00:00.001
+2019-09-02 10:10:39,670 INFO 550980 [Timer] E:\forfun\egg-demo\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 49761331ms at 2019-09-03 00:00:01.001
+2019-09-04 11:35:44,061 INFO 677920 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 11:35:44,061 INFO 677920 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 11:35:44,061 INFO 677920 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 11:35:45,931 INFO 674976 [Timer] E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 60854076ms at 2019-09-05 04:30:00.006
+2019-09-04 11:35:45,931 INFO 674976 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 44654069ms at 2019-09-05 00:00:00.000
+2019-09-04 11:35:45,932 INFO 674976 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 44655069ms at 2019-09-05 00:00:01.001
+2019-09-04 11:38:52,090 INFO 681768 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 11:38:52,090 INFO 681768 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 11:38:52,090 INFO 681768 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:08:05,281 INFO 680968 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:08:05,281 INFO 680968 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:08:05,281 INFO 680968 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:08:07,239 INFO 683336 [Timer] E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 58912771ms at 2019-09-05 04:30:00.010
+2019-09-04 12:08:07,240 INFO 683336 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 42712761ms at 2019-09-05 00:00:00.001
+2019-09-04 12:08:07,241 INFO 683336 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 42713760ms at 2019-09-05 00:00:01.001
+2019-09-04 12:10:14,356 INFO 681652 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:10:14,356 INFO 681652 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:10:14,356 INFO 681652 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:10:53,177 INFO 678936 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:10:53,177 INFO 678936 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:10:53,177 INFO 678936 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:11:30,169 INFO 684332 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:11:30,169 INFO 684332 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:11:30,169 INFO 684332 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:12:19,811 INFO 683984 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:12:19,812 INFO 683984 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:12:19,812 INFO 683984 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:12:30,273 INFO 684656 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:12:30,273 INFO 684656 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:12:30,273 INFO 684656 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:16:52,140 INFO 686028 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:16:52,140 INFO 686028 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:16:52,140 INFO 686028 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:17:58,715 INFO 684180 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:17:58,715 INFO 684180 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:17:58,715 INFO 684180 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:18:26,905 INFO 683736 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:18:26,905 INFO 683736 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:18:26,905 INFO 683736 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:22:14,758 INFO 684628 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 12:22:14,758 INFO 684628 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 12:22:14,758 INFO 684628 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 12:22:16,762 INFO 680304 [Timer] E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 58063247ms at 2019-09-05 04:30:00.009
+2019-09-04 12:22:16,764 INFO 680304 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 41863237ms at 2019-09-05 00:00:00.001
+2019-09-04 12:22:16,765 INFO 680304 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 41864236ms at 2019-09-05 00:00:01.001
+2019-09-04 13:20:47,821 INFO 689576 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:20:47,821 INFO 689576 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:20:47,821 INFO 689576 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:20:49,796 INFO 686048 [Timer] E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 54550213ms at 2019-09-05 04:30:00.009
+2019-09-04 13:20:49,798 INFO 686048 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 38350203ms at 2019-09-05 00:00:00.001
+2019-09-04 13:20:49,798 INFO 686048 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 38351202ms at 2019-09-05 00:00:01.000
+2019-09-04 13:22:29,413 INFO 692044 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:22:29,413 INFO 692044 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:22:29,413 INFO 692044 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:22:37,042 INFO 689872 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:22:37,042 INFO 689872 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:22:37,042 INFO 689872 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:23:31,470 INFO 692216 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:23:31,470 INFO 692216 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:23:31,470 INFO 692216 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:25:04,016 INFO 690620 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:25:04,016 INFO 690620 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:25:04,016 INFO 690620 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:32:44,247 INFO 691324 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:32:44,247 INFO 691324 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:32:44,247 INFO 691324 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:34:02,528 INFO 692584 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:34:02,528 INFO 692584 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:34:02,528 INFO 692584 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:34:21,879 INFO 692852 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:34:21,879 INFO 692852 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:34:21,879 INFO 692852 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:36:02,212 INFO 693136 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:36:02,212 INFO 693136 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:36:02,212 INFO 693136 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:36:17,494 INFO 689748 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:36:17,495 INFO 689748 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:36:17,495 INFO 689748 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:40:33,000 INFO 691616 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:40:33,000 INFO 691616 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:40:33,000 INFO 691616 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:42:07,718 INFO 693836 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:42:07,718 INFO 693836 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:42:07,718 INFO 693836 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:43:00,406 INFO 692668 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:43:00,406 INFO 692668 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:43:00,406 INFO 692668 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:43:08,428 INFO 693304 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:43:08,428 INFO 693304 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:43:08,428 INFO 693304 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:44:15,720 INFO 692512 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:44:15,720 INFO 692512 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:44:15,720 INFO 692512 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:44:33,574 INFO 689840 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:44:33,575 INFO 689840 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:44:33,575 INFO 689840 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:49:29,929 INFO 695248 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:49:29,930 INFO 695248 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:49:29,930 INFO 695248 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:52:19,733 INFO 690912 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:52:19,733 INFO 690912 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:52:19,733 INFO 690912 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:52:21,934 INFO 693084 [Timer] E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js next time will execute after 52658075ms at 2019-09-05 04:30:00.009
+2019-09-04 13:52:21,935 INFO 693084 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js next time will execute after 36458066ms at 2019-09-05 00:00:00.001
+2019-09-04 13:52:21,936 INFO 693084 [Timer] E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js next time will execute after 36459065ms at 2019-09-05 00:00:01.001
+2019-09-04 13:54:08,220 INFO 686048 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:54:08,220 INFO 686048 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:54:08,220 INFO 686048 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:54:37,869 INFO 695044 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:54:37,870 INFO 695044 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:54:37,870 INFO 695044 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:58:46,823 INFO 694836 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:58:46,823 INFO 694836 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:58:46,823 INFO 694836 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js
+2019-09-04 13:59:24,606 INFO 695204 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-multipart\app\schedule\clean_tmpdir.js
+2019-09-04 13:59:24,607 INFO 695204 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\clean_log.js
+2019-09-04 13:59:24,607 INFO 695204 [egg-schedule]: register schedule E:\forfun\news-server\node_modules\egg-logrotator\app\schedule\rotate_by_file.js

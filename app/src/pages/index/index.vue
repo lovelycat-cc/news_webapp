@@ -7,7 +7,7 @@
       </div>
     </div>
     <div  class="btn">
-      <i-button>进入小程序</i-button>
+      <i-button @click="bindViewTap">进入小程序</i-button>
     </div>
   </div>
 </template>
@@ -17,8 +17,7 @@ export default {
   data () {
     return {
       userInfo: {
-        nickName: 'ccnews',
-        avatarUrl: 'http://mpvue.com/assets/logo.png'
+        nickName: 'ccnews'
       }
     }
   },

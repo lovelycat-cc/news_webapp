@@ -12,7 +12,7 @@
   "license": "ISC",
   "dependencies": {
     "egg": "^2.23.0",
-    "egg-bin": "^4.13.1",
+    "egg-bin": "^5.9.0",
     "egg-mongoose": "^3.2.0",
     "egg-scripts": "^2.11.0"
   },
